@@ -1,5 +1,5 @@
 {
-  "name": "@arnormoncada/arnor-eslint-rule-nomoment",
+  "name": "@arnormoncada/eslint-plugin-arnornomoment",
   "version": "1.0.0",
   "description": "eslint rule for final project in VIHU",
   "main": "index.js",
