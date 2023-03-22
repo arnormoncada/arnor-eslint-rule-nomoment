@@ -1,0 +1,26 @@
+{
+  "name": "@arnormoncada/arnor-eslint-rule-nomoment",
+  "version": "1.0.0",
+  "description": "eslint rule for final project in VIHU",
+  "main": "index.js",
+  "publishConfig": {
+    "@arnormoncada:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "npm",
+    "final",
+    "ru",
+    "vihu",
+    "eslint",
+    "rule"
+  ],
+  "author": "Arnór Daníel Moncada",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.36.0",
+    "vitest": "^0.29.7"
+  }
+}
